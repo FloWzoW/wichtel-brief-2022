@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background: #161618;
+    background-color: #161618;
 }
 
 strong {
@@ -19,7 +19,7 @@ img:not(.logo) {
     width: 30%;
 }
 
-.body {
+.body.light {
     background: #161618;
     padding-top: 0;
     padding-bottom: 0;
