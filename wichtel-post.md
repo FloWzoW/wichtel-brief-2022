@@ -36,6 +36,8 @@ Eine schöne Zeit und viel Erfolg und Glück.
 
 Dein Wichtel Lesbenvieh
 
+![Danke Horst Lünser](./DankeHorstLuenser.jpg)
+
 
 Vielen Dank, ich habe mich sehr gefreut!
 
