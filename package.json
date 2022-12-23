@@ -1,0 +1,42 @@
+{
+  "name": "wichtel-post-2022",
+  "version": "1.0.0",
+  "description": "Wichtel Post 2022",
+  "main": "index.js",
+  "scripts": {
+    "build:demo": "fiddly",
+    "serve": "node index.js",
+    "open-browser": "start http://localhost:3000",
+    "start": "npm run build:demo && npm run serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "fiddly": {
+    "file": "wichtel-post.md",
+    "name": "FloWzoWs Wichtel-Hochlad 2022",
+    "logo": "wrappedgift.png",
+    "styles": "styles.css",
+    "darkTheme": true,
+    "repo": null
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FloWzoW/wichtel-post-2022.git"
+  },
+  "keywords": [
+    "pr0gramm",
+    "wichteln",
+    "wichteln 2022"
+  ],
+  "author": "FloWzoW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FloWzoW/wichtel-post-2022/issues"
+  },
+  "homepage": "https://github.com/FloWzoW/wichtel-post-2022#readme",
+  "devDependencies": {
+    "fiddly": "^0.12.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
